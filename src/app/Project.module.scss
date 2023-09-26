@@ -1,0 +1,38 @@
+.Project__Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+// .Project__Wrapper {
+//   margin-bottom: 10px;
+//   width: 100%;
+//   z-index: 2;
+
+//   &:hover {
+//     cursor: pointer;
+
+//     .Project__Image {
+//       opacity: 1;
+//       visibility: visible;
+//     }
+//   }
+// }
+
+.Project__Title {
+  font-size: 40px;
+  text-align: center;
+  width: 100%;
+  border: 1px solid black;
+}
+
+// .Project__Image {
+//   max-width: 500px;
+//   width: 100%;
+//   position: fixed;
+//   opacity: 0;
+//   visibility: hidden;
+//   transform: translate(-50%, -50%);
+// }
